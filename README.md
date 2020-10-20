@@ -13,6 +13,12 @@
   Mercedes Sprinter Undercover: https://steamcommunity.com/sharedfiles/filedetails/?id=247188645
   
   Mercedes Vito Undercover: https://steamcommunity.com/sharedfiles/filedetails/?id=865432869
+  
+## Installation
+
+### Fichiers lua
+
+  Mettre les fichiers lua dans *lua/autorun*
 
 ### Skin Dodge Charger Police Belge
 
